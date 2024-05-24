@@ -1,2 +1,4 @@
 .terraform*
 terraform*
+#your cluster name, as we don't want to copy kubeconfig file to git
+test-cluster*
